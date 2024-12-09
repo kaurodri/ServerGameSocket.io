@@ -1,0 +1,8 @@
+{
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^2.5.1"
+  }
+}
